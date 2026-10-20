@@ -1,2 +1,2 @@
-# M-todo_de_ordena-o
+# Método_de_ordenação
 Criando um método de ordenação inspirado no bubble sort 
